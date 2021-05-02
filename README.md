@@ -7,3 +7,15 @@ Puteti descarca modifica proiectul, evident, cu scop educational.
 Imaginile din interiorul aplicatiei sunt descarcate de pe internet, prin urmare nu beneficiez de title de autor asupra lor.
 
 MrAlexR ;)
+
+### Features
+
+- Creaza local un fisier de configuratie cu contul creat.
+- Detecteaza erorile de logare
+- Posibilitatea de a edita profilul
+
+## Pagina logare
+
+## Pagina creare profil
+
+## Pagina profil
