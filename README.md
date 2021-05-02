@@ -15,7 +15,8 @@ MrAlexR ;)
 - Posibilitatea de a edita profilul
 
 ## Pagina logare
-
+![auth1](https://user-images.githubusercontent.com/48644095/116819202-b1f4cb00-ab77-11eb-92ab-a5f55d1690af.PNG)
 ## Pagina creare profil
-
+![auth2](https://user-images.githubusercontent.com/48644095/116819214-ba4d0600-ab77-11eb-851f-ee356d99bc1d.PNG)
 ## Pagina profil
+![auth3](https://user-images.githubusercontent.com/48644095/116819216-bf11ba00-ab77-11eb-9f5a-a8819b28fe51.PNG)
